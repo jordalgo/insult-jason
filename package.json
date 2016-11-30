@@ -1,0 +1,26 @@
+{
+  "name": "insult-jason",
+  "version": "0.1.0",
+  "description": "A javascript library for insulting Jason Palmer",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jordalgo/insult-jason.git"
+  },
+  "keywords": [
+    "functional",
+    "offending"
+  ],
+  "author": "Jordan Rome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordalgo/insult-jason/issues"
+  },
+  "homepage": "https://github.com/jordalgo/insult-jason"
+}
